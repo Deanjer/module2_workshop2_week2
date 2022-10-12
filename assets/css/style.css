@@ -1,0 +1,34 @@
+
+*{
+    font-family: arial;
+}
+#img1{
+width: 500px;
+float: left;
+margin-right: 30px;
+}
+#title1{
+   /* float: left; */
+   margin-right: 300px;
+   margin-bottom: 2px;
+   vertical-align: top;
+}
+.head{
+    display: inline-block;
+}
+#img2{
+    width: 500px;
+    float: left;
+    margin-right: 30px;
+    height: 500px;
+    margin-top:30px ;
+    margin-left: 40;
+    }
+
+    ul{
+        line-height: 1.2;
+        margin-right: 0px;
+    }
+#ingredients h2{
+    clear:left
+}
