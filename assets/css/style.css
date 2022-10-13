@@ -26,11 +26,15 @@ margin-bottom: 10px;
     clear:left
 }
 #alltekst{
-    margin-left: 45px;
+    margin-left: 50px;
 }
 #line{
     width: 100%;
-    border: 2px solid black;
-    margin-top: 10px;
-    position: absolute;
+    height: 670px;
+    background-color: rgb(247, 98, 98);
+    /* border: 2px solid black; */
+    margin-top: -600px;
+}
+h2{
+    color: rgb(247, 98, 98);
 }
