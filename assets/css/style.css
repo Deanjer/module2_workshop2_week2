@@ -38,3 +38,11 @@ margin-bottom: 10px;
 h2{
     color: rgb(247, 98, 98);
 }
+.customhr{
+    width: 100%;
+    height: 3px;
+    background-color: black;
+}
+.inleiding{
+    color: white;
+}
